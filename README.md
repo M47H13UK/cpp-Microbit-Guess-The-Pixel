@@ -9,7 +9,7 @@ A tiny two-micro:bit party game. One micro:bit (the **Selector**) secretly choos
 ![Demo Image](./demo_img.png)
 ---
 
-## 🎮 How to Play
+##How to Play
 
 1. Power on both micro:bits.
 2. **Selector**: Move the cursor with **A** and **B** to any LED and press **A+B** once to mark your secret pixel. If you change your mind you can still move around. Press **A+B** again on the selected pixel to **send** it to the Guesser (you’ll briefly see “T” for transmission).
@@ -21,7 +21,7 @@ A tiny two-micro:bit party game. One micro:bit (the **Selector**) secretly choos
 
 ---
 
-## 🔈 On-device Feedback
+##On-device Feedback
 
 - **Selector**
   - After sending the pixel: shows **“T”** and plays a happy tone, then dims the chosen pixel.
@@ -34,7 +34,7 @@ A tiny two-micro:bit party game. One micro:bit (the **Selector**) secretly choos
 
 ---
 
-## 📡 Radio
+##Radio
 
 - Radio **group**: `42`
 - Message format (3 bytes):
