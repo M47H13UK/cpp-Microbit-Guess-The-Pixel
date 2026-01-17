@@ -2,7 +2,7 @@
 
 A tiny two-micro:bit party game. One micro:bit (the **Selector**) secretly chooses a pixel on the 5×5 LED grid. The other micro:bit (the **Guesser**) tries to find it in up to 8 attempts. Devices communicate via the micro:bit radio (group 42).
 
-> ## ▶ Watch a 1-minute showcase video  
+> ##Watch a 1-minute showcase video  
 > **[Click here to watch on OneDrive](https://1drv.ms/v/c/4d75d128dc6af497/ETwCvzy1h45JpW36HYJHfVgBWHaa5FulOn8f3scc10qPcg?e=3SknIe)**
 
 
